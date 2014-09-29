@@ -1,0 +1,9 @@
+INDEX VERSION 1.126+C:\Users\Pancho\workspace\coursera_android\.metadata\.plugins\org.eclipse.jdt.core
+3461909816.index
+3643746358.index
+3609595247.index
+3441175534.index
+2883789500.index
+127299911.index
+1284074322.index
+4077237716.index

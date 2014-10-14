@@ -2,6 +2,7 @@
 <workingSetManager>
 <workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1411909791444_3" label="week1" name="week1">
 <item elementID="=HelloWord" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=SimpleCalcTest" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1411953347693_8" label="assigment1" name="assigment1">
 <item elementID="=DeskClock" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
@@ -11,9 +12,19 @@
 </workingSet>
 <workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1412461830259_11" label="week2" name="week2">
 <item elementID="=MapLocation" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=MapLocationFromContacts" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1412729995138_13" label="assigment2" name="assigment2">
 <item elementID="=ActivityLab" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1413065413442_14" label="week3" name="week3">
+<item elementID="=PermissionExampleBoomUser" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=HelloAndroidWithLogin" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=PermissionExampleBoom" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1413164378537_17" label="assigment3" name="assigment3">
+<item elementID="=IntentsLab" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=MyBrowser" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1411837806614_0" label="Window Working Set" name="Aggregate for window 1411837806613"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1411908242706_1" label="Window Working Set" name="Aggregate for window 1411908242706"/>
@@ -24,6 +35,12 @@
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1411955708646_9" label="Window Working Set" name="Aggregate for window 1411955708646"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1412033143465_10" label="Window Working Set" name="Aggregate for window 1412033143465"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1412729895190_12" label="Window Working Set" name="Aggregate for window 1412729895190"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1413068525434_15" label="Window Working Set" name="Aggregate for window 1413068525434"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1413135843635_16" label="Window Working Set" name="Aggregate for window 1413135843635"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1413170565523_18" label="Window Working Set" name="Aggregate for window 1413170565523"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1413226952095_19" label="Window Working Set" name="Aggregate for window 1413226952095"/>
+<mruList name="assigment3"/>
+<mruList name="week3"/>
 <mruList name="assigment2"/>
 <mruList name="week2"/>
 <mruList name="week1"/>

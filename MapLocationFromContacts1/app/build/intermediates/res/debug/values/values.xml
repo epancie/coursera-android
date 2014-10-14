@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Users/Pancho/workspace/coursera_android/MapLocationFromContacts1/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="find_address_string">"Find Address"</string>
+
+</resources>

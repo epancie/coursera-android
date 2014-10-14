@@ -5,27 +5,27 @@
 		<item value="148" key="DIALOG_Y_ORIGIN"/>
 	</section>
 	<section name="org.eclipse.ui.internal.QuickAccess">
-		<item value="744" key="dialogHeight"/>
-		<item value="1260" key="dialogWidth"/>
+		<item value="767" key="dialogHeight"/>
+		<item value="1440" key="dialogWidth"/>
 		<list key="textEntries">
 			<item value="1"/>
 			<item value="1"/>
 			<item value="1"/>
 		</list>
 		<list key="orderedElements">
+			<item value="com.android.ide.eclipse.ddms.views.LogCatView"/>
 			<item value="com.android.ide.eclipse.ddms.views.DeviceView"/>
 			<item value="com.android.ide.eclipse.ddms.Perspective"/>
-			<item value="com.android.ide.eclipse.ddms.views.LogCatView"/>
 		</list>
 		<list key="orderedProviders">
 			<item value="org.eclipse.e4.ui.parts"/>
-			<item value="org.eclipse.ui.perspectives"/>
 			<item value="org.eclipse.e4.ui.parts"/>
+			<item value="org.eclipse.ui.perspectives"/>
 		</list>
 		<list key="textArray">
+			<item value="log"/>
 			<item value="dev"/>
 			<item value="ddm"/>
-			<item value="log"/>
 		</list>
 	</section>
 	<section name="ImportExportAction">
